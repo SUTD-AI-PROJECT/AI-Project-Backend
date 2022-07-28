@@ -7,7 +7,7 @@ import pandas as pd
 
 app = FastAPI(root_path="")
 
-# uvicorn app.routerMain:app --reload
+# uvicorn routerMain:app --reload
 origins = ["*"]
 
 app.add_middleware(

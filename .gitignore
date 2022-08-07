@@ -3,5 +3,9 @@ __pycache__
 venv/
 .DS_STORE
 TweetsCOV19.tsv
-
+test_2.tsv
+word_vec.txt
+tokenizer.pickle
+weights_without_tweet_id.h5
 myvirtualenv
+.gitattributes
